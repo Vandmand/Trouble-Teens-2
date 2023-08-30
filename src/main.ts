@@ -1,5 +1,4 @@
 import * as PIXI from "pixi.js";
-import { activeKeys } from "./inputhandler";
 import { CreatePlayer } from "./player";
 
 export const app = new PIXI.Application({
